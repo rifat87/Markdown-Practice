@@ -37,8 +37,11 @@ Nested List:
     Item 2
 
     
-Inline Code
-Inline Code: Use the printf() function to print output.
+## Inline Code
+**Inline Code:**
+Use the printf() function to print output.
+printf(Hello world)
+
 Collapsible Content
 Collapsible Content:
 <details> <summary>Click to expand</summary> Collapsible content goes here. </details>
