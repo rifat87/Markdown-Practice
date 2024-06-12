@@ -11,6 +11,13 @@
 > [!TIP]
 > Use the command line to detect and resolve the errors!
 
+## Same way we can add warnings
+
+> [!WARNING]
+> DON'T DELETE THE `package.jso` file!
+
+
+
 Next we have, 
 
 
