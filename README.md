@@ -40,7 +40,8 @@ Nested List:
 ## Inline Code
 **Inline Code:**
 Use the printf() function to print output.
-printf(Hello world)
+
+printf("Hello world");
 
 Collapsible Content
 Collapsible Content:
