@@ -1,7 +1,7 @@
 # Markdown-Practice
 
 
-1.At first we have notes
+## At first we have notes
 
 > [!NOTE]
 > I want the resaders to read it carefully as it containes
@@ -16,6 +16,11 @@
 > [!WARNING]
 > DON'T DELETE THE `package.jso` file!
 
+
+## Caution block
+
+>[!CAUTION]
+>Don't execute the code without commenting the test cases.
 
 
 Next we have, 
