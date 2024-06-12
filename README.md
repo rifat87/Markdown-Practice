@@ -43,30 +43,48 @@ Use the printf() function to print output.
 
 printf("Hello world");
 
-Collapsible Content
+## Collapsible Content
 Collapsible Content:
-<details> <summary>Click to expand</summary> Collapsible content goes here. </details>
-Mentions
+
+<details> 
+    <summary>Click to expand</summary> 
+    Collapsible content goes here. 
+</details>
+
+## Mentions
 Mention a User: @username
-Issue and Pull Request References
+
+## Issue and Pull Request References
 Reference an Issue: #123
 Reference a Pull Request: #456
-Emojis
+
+## Emojis
 Emoji: :smile: :thumbsup: :rocket:
-Strikethrough
-Strikethrough Text: This text is strikethrough.
-Task Lists
+
+## Strikethrough
+ Strikethrough Text: This text is strikethrough.
+
+## Task Lists
+
 Task List:
- Task 1
- Task 2
-Tables
+    Task 1
+    Task 2
+
+## Tables
+
 Table:
+
 | Name | Age |
 |------|-----|
 | John | 25 |
 | Jane | 30 |
-Relative Links
+
+
+## Relative Links
+
 Relative Link: README
-Absolute Links
+
+## Absolute Links
+
 Absolute Link: GitHub
 
