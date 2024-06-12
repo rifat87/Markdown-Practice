@@ -8,3 +8,11 @@
 > dfsaf
 
 Next we have, 
+
+
+##Syntax Highlighting
+**Code Block with Syntax Highlighting:** ```javascript
+function example() {
+console.log('Example function');
+}
+
