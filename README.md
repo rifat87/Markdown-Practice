@@ -7,6 +7,10 @@
 > I want the resaders to read it carefully as it containes
 > dfsaf
 
+
+> [!TIP]
+> Use the command line to detect and resolve the errors!
+
 Next we have, 
 
 
