@@ -16,7 +16,7 @@ Next we have,
 ```javascript
 function example() {
 console.log('Example function');
-}
+}```
 
 ## Blockquotes
 Blockquote: > This is a blockquote.
