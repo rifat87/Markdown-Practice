@@ -23,13 +23,19 @@ console.log('Example function');
 
 
 ## Blockquotes
-Blockquote: > This is a blockquote.
-Nested Lists
+**Blockquote:**
+> This is a blockquote.
+
+
+## Nested Lists
+
 Nested List:
-Item 1
-Nested Item 1
-Nested Item 2
-Item 2
+    Item 1
+        Nested Item 1
+        Nested Item 2
+    Item 2
+
+    
 Inline Code
 Inline Code: Use the printf() function to print output.
 Collapsible Content
