@@ -10,7 +10,7 @@
 Next we have, 
 
 
-##Syntax Highlighting
+## Syntax Highlighting
 
 **Code Block with Syntax Highlighting:** 
 ```javascript
